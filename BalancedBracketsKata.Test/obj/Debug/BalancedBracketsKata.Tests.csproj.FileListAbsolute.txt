@@ -1,0 +1,9 @@
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\bin\Debug\BalancedBracketsKata.Test.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\bin\Debug\BalancedBracketsKata.Test.pdb
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\bin\Debug\CalculatorKata.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\bin\Debug\nunit.framework.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\bin\Debug\CalculatorKata.pdb
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\bin\Debug\nunit.framework.xml
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\obj\Debug\BalancedBracketsKata.Tests.csprojResolveAssemblyReference.cache
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\obj\Debug\BalancedBracketsKata.Test.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Test\obj\Debug\BalancedBracketsKata.Test.pdb

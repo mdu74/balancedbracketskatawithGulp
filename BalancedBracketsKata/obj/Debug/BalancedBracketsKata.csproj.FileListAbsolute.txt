@@ -1,0 +1,13 @@
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\CalculatorKata.dll
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\CalculatorKata.pdb
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.dll
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.xml
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\BalancedBracketsKata.csprojResolveAssemblyReference.cache
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.dll
+D:\Systems\mdu-balancedbracketskata\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.pdb
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\CalculatorKata.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\CalculatorKata.pdb
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.xml
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.dll
+C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.pdb

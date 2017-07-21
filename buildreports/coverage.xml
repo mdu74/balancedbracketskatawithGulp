@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root CoveredStatements="20" TotalStatements="20" CoveragePercent="100" ReportType="Xml" DotCoverVersion="2017.1.2">
+  <Assembly Name="CalculatorKata" CoveredStatements="20" TotalStatements="20" CoveragePercent="100">
+    <Namespace Name="CalculatorKata" CoveredStatements="20" TotalStatements="20" CoveragePercent="100">
+      <Type Name="BalanceBrackets" CoveredStatements="20" TotalStatements="20" CoveragePercent="100">
+        <Method Name="CheckForBalancedBrackets(string):string" CoveredStatements="20" TotalStatements="20" CoveragePercent="100" />
+      </Type>
+    </Namespace>
+  </Assembly>
+</Root>
