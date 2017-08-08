@@ -41,4 +41,20 @@ describe("BalancedBrackets", function () {
         //---------------Execute Test ----------------------
         expect(result).toBe("FAIL");
     });
+    it("Given balanced brackets and should return OK", function () {
+        //---------------Set up test pack-------------------
+        var input = '[][]';
+        //---------------Execute Test ----------------------
+        var result = BalancedBrackets(input);
+        //---------------Execute Test ----------------------
+        expect(result).toBe("OK");
+    });
+    it("Given balanced brackets and should return OK", function () {
+        //---------------Set up test pack-------------------
+        var input = '[[]]';
+        //---------------Execute Test ----------------------
+        var result = BalancedBrackets(input);
+        //---------------Execute Test ----------------------
+        expect(result).toBe("OK");
+    });
 });

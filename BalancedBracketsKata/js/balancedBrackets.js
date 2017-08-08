@@ -4,6 +4,7 @@ function BalancedBrackets(input) {
     var bracketBalanceCount = 0;
     var arrayOfBrackets = Array.from(input);
     arrayOfBrackets.forEach(function (bracket) {
+        debugger;
         if (CheckForOpenBracket(bracket))
             bracketBalanceCount++;
         else
