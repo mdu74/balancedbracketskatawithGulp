@@ -11,3 +11,10 @@ C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.f
 C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.xml
 C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.dll
 C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.pdb
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\CalculatorKata.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\CalculatorKata.pdb
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\bin\Debug\nunit.framework.xml
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\CalculatorKata.pdb
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata\obj\Debug\BalancedBracketsKata.csprojResolveAssemblyReference.cache

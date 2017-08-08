@@ -7,3 +7,12 @@ C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\n
 C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Tests\obj\Debug\BalancedBracketsKata.Tests.csprojResolveAssemblyReference.cache
 C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Tests\obj\Debug\BalancedBracketsKata.Tests.dll
 C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Tests\obj\Debug\BalancedBracketsKata.Tests.pdb
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\BalancedBracketsKata.Tests.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\BalancedBracketsKata.Tests.pdb
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\CalculatorKata.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\nunit.framework.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\CalculatorKata.pdb
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\nunit.framework.xml
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\obj\Debug\BalancedBracketsKata.Tests.csprojResolveAssemblyReference.cache
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\obj\Debug\BalancedBracketsKata.Tests.dll
+C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\obj\Debug\BalancedBracketsKata.Tests.pdb

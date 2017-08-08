@@ -1,5 +1,5 @@
 {
-  "name": "BalancedBracketsKata",
+  "name": "balancedbracketskata",
   "scripts": {
     "test": "gulp test-dotnet"
   },
@@ -14,13 +14,14 @@
     "gulp-msbuild": "^0.5.1",
     "gulp-nunit-runner": "^1.2.1",
     "gulp-util": "^3.0.8",
-    "jasmine-core": "^2.6.2",
+    "jasmine-core": "^2.7.0",
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.1.1",
     "karma-cli": "^1.0.1",
     "karma-coverage": "^1.1.1",
     "karma-jasmine": "^1.1.0",
     "karma-nested-reporter": "^0.1.5",
+    "karma-phantomjs-launcher": "^1.0.4",
     "karma-requirejs": "^1.1.0",
     "karma-xml-reporter": "^0.1.4",
     "mkdirp": "0.5.1",
@@ -35,7 +36,22 @@
     "which": "^1.2.14"
   },
   "dependencies": {
+    "gulp-karma-runner": "^1.2.0",
     "gulp-npm-run": "0.0.3",
+    "karma-html-detailed-reporter": "^1.1.20",
     "require-dir": "^0.3.2"
-  }
+  },
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdu74/balancedbracketskatawithGulp.git"
+  },
+  "author": "Team Four Star",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdu74/balancedbracketskatawithGulp/issues"
+  },
+  "homepage": "https://github.com/mdu74/balancedbracketskatawithGulp#readme",
+  "description": ""
 }

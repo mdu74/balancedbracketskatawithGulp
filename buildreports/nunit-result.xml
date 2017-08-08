@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\BalancedBracketsKata.Tests.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-07-28" time="12:19:15">
-  <environment nunit-version="3.4.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="C:\Systems\dev\katas\BalancedBracketsKata" machine-name="MDU" user="Mdu" user-domain="CHILLI" />
+<test-results name="C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\BalancedBracketsKata.Tests.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-08-04" time="14:30:33">
+  <environment nunit-version="3.4.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="C:\Systems\dev\Kata\BalancedBracketsKata" machine-name="MDU" user="Mdu" user-domain="CHILLI" />
   <culture-info current-culture="en-ZA" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Systems\dev\katas\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\BalancedBracketsKata.Tests.dll" executed="True" result="Success" success="True" time="0.077" asserts="7">
+  <test-suite type="Assembly" name="C:\Systems\dev\Kata\BalancedBracketsKata\BalancedBracketsKata.Tests\bin\Debug\BalancedBracketsKata.Tests.dll" executed="True" result="Success" success="True" time="0.098" asserts="7">
     <properties>
-      <property name="_PID" value="9032" />
+      <property name="_PID" value="21432" />
       <property name="_APPDOMAIN" value="test-domain-" />
     </properties>
     <results>
-      <test-suite type="TestSuite" name="BalancedBracketsKata" executed="True" result="Success" success="True" time="0.065" asserts="7">
+      <test-suite type="TestSuite" name="BalancedBracketsKata" executed="True" result="Success" success="True" time="0.080" asserts="7">
         <results>
-          <test-suite type="TestSuite" name="Tests" executed="True" result="Success" success="True" time="0.061" asserts="7">
+          <test-suite type="TestSuite" name="Tests" executed="True" result="Success" success="True" time="0.077" asserts="7">
             <results>
-              <test-suite type="TestFixture" name="BalanceBracketsTest" executed="True" result="Success" success="True" time="0.057" asserts="7">
+              <test-suite type="TestFixture" name="BalanceBracketsTest" executed="True" result="Success" success="True" time="0.073" asserts="7">
                 <results>
-                  <test-case name="BalancedBracketsKata.Tests.BalanceBracketsTest.CheckForBalancedBrackets_GivenBalancedBrackets_ShouldReturnOK" executed="True" result="Success" success="True" time="0.021" asserts="1" />
+                  <test-case name="BalancedBracketsKata.Tests.BalanceBracketsTest.CheckForBalancedBrackets_GivenBalancedBrackets_ShouldReturnOK" executed="True" result="Success" success="True" time="0.039" asserts="1" />
                   <test-case name="BalancedBracketsKata.Tests.BalanceBracketsTest.CheckForBalancedBrackets_GivenBalancedPaired_ShouldReturnOK" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                   <test-case name="BalancedBracketsKata.Tests.BalanceBracketsTest.CheckForBalancedBrackets_GivenClosedBracket_ShouldReturnFAIL" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                   <test-case name="BalancedBracketsKata.Tests.BalanceBracketsTest.CheckForBalancedBrackets_GivenEmptyString_ShouldReturnOK" executed="True" result="Success" success="True" time="0.000" asserts="1" />

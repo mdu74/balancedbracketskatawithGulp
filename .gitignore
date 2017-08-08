@@ -1,1 +1,7 @@
 .vs/BalancedBracketsKata/v14/.suo
+buildreports/coveragesnapshot
+buildreports/coverage.html
+buildreports/coverage.html
+buildreports/coveragesnapshot
+buildreports/nunit-result.xml
+.gitignore
